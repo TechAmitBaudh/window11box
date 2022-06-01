@@ -1,0 +1,13 @@
+*{margin:0;}
+.bg1{background-color:tomato;}
+.bg2{background-color:teal;}
+.bg3{background-color:red;}
+.bg4{background-color:gold;}
+.fl{float: left;}
+.fr{float:right;}
+.new{float:left; margin-left: 1%;}
+.clr{clear:both;}
+.wrapper{height: 80vh; margin: 10vh 10%;}
+.col-4{height:80vh; width:24%;  }
+.col{height:19.25vh;margin-bottom: 1vh;}
+.col-1{height:19.25vh; width:47.50%;}
